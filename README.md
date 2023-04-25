@@ -18,3 +18,4 @@ The functionality of each button has been written in separate classes
 6. BALANCE ENQUIRY
 The database used for this project was MySQL 
 we have created a connection with the database in the Conn.java class using the JDBC Connectivity and Drivers .
+The jcalender.jar file is used for the date of birth inserting in the application.
